@@ -1,0 +1,3 @@
+content added,modified2
+changed after stage and commit
+this is from master +50 lines

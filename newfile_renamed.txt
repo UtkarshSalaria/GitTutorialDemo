@@ -1,0 +1,5 @@
+modifing file 1,modified again
+changed after staged and commit
+again changed after adding to staged,again master branch
+this is chnged now modied also master
+this is from master 

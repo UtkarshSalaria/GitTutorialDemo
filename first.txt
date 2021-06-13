@@ -1,0 +1,9 @@
+This is version 1 of project
+I want this to go to commit 2
+chaged by harry
+i am going to change the commit message
+This is added to chnage comment
+changed
+changed2
+changed3
+changed4
